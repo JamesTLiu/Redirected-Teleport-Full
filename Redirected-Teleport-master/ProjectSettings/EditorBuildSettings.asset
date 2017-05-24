@@ -9,5 +9,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Preloader.unity
   - enabled: 0
     path: Assets/Scenes/UnityLabs01.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TheLabs.unity
